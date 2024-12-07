@@ -1,2 +1,12 @@
 # Ecell-Android
-DCRUST's official E-Cell handle to host all E-Cell and tech-related content.
+
+The official Ecell android app.
+
+## Contribution
+To contribute to this project, make sure to setup your signing keys first.
+
+----
+## Contact us
+Ecell :- ecell@dcrustm.org
+
+Shiven Saini :- shiven.career@proton.me
